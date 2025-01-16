@@ -1,1 +1,1 @@
-web: gunicorn my-first-project-on-heroku.wsgi
+web: gunicorn my_project.wsgi
